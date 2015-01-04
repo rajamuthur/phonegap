@@ -1,0 +1,21 @@
+html,body{
+	padding: 0px;
+	margin: 0px;
+}
+.main{
+	margin: 0 auto;
+	width: 80%;
+}
+header,footer{
+	text-align:center;
+}
+div input{
+	padding: 1%;
+	width: 20%
+}
+
+label{
+	font-weight:bold;
+	font-size: 13px;
+	width: 50%
+}
